@@ -1,5 +1,5 @@
-{
-  "accordionItems": [
+
+const data = [
     {
       "id": 1,
       "title": "Section 1",
@@ -19,9 +19,9 @@
       "id": 4,
       "title": "Section 4",
       "content": "This is the content for Section 4."
-    }
-  ]
-}
+    },
+];
+
 
 
 export default DataTransfer;
